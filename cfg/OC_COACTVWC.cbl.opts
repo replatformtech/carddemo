@@ -1,0 +1,3 @@
+# one of the following values: ok, warning, archaic, obsolete, skip, ignore, error, unconformable
+-freference-bounds-check=skip
+

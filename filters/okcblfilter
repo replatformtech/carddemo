@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "      * okcblfilter excuted " 
+$OKDIR/bin/okcblfilter
+
+exit 0
+
